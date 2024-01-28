@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
+
+
+body{
+    padding: 1%;
+    text-align: center;
+    /* font-family: 'IBM Plex Sans', sans-serif; */
+    font-family: 'Arvo', serif;
+    font-size: 14pt;
+    background-image: url("Apes-Collage copy.jpeg")
+}
+
+form{
+    text-align: left;
+    padding: 6.5%;
+    background-color: #000000;
+    color: white;
+    border-radius: 25px;
+    margin: 2%;
+}
+
+img{
+    width: 60%;
+    border-radius: 25pt;
+}
+
+p{
+    text-align: left;
+}
+
+.navbar{
+    padding: 1.5%;
+    border-radius: 25px;
+}
+
+.container{
+    padding: 8%;
+    margin: 2%;
+}
+
+.nav-link{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 18pt;
+}
+
+.navbar-brand{
+    color: #DFC543;
+    font-weight: bold;
+    font-family: 'Single Day', cursive;
+    font-size: 20pt;
+}
+
+.text-box{
+    
+    font-family: 'Workbench', sans-serif;
+    padding: 2%;
+}
+
+.main-text{
+    color: grey;
+}
+
+.output-text {
+    margin: 4%;
+    padding: 1.2%;
+    background-color: #000000;
+    color: white;
+
+}
+
+.btn-warning{
+    background-color: #DFC543;
+    color: azure;
+}
+
+.chat-response{
+    text-align: left;
+    padding: 6.5%;
+    background-color: #e0e0e0;
+    border-radius: 25px;
+    margin: 2%;
+}
+
+.main-text{
+    padding: 6.5%;
+    background-color: #e0e0e0;
+    border-radius: 25px;
+    font-size: 20px;
+}
+
+textarea{
+    margin: 1%;
+}
+
+.btn-23{
+    margin: 2%;
+    margin-left: 0;
+}
+
+.chat-response{
+    background-color: #000000;
+    color: white;
+}
+
+.main-text{
+    background-color: #000000;
+    color: white;
+}
